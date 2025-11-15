@@ -4,7 +4,7 @@ The **Weather Report** project is a web application for weather prediction using
 
 ## Main Features  
 
-- **Weather forecasting** based on historical data using **GRU + XGBoost**.  
+- **Weather Report** based on historical data using **GRU + XGBoost**.  
 - **User-friendly web interface** displaying key weather information:  
   - Daily highest temperature  
   - Daily lowest temperature  
