@@ -1,6 +1,6 @@
 # Weather Report Web App
 
-The **Weather Forecast** project is a web application for weather prediction using a **GRU + XGBoost** model. It is built with **Flask** to display 7-day weather forecasts.  
+The **Weather Report** project is a web application for weather prediction using a **GRU + XGBoost** model. It is built with **Flask** to display 7-day weather forecasts.  
 
 ## Main Features  
 
