@@ -34,7 +34,7 @@ weather_forecast/
 ## Installation
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/thangthewinner/weather_forecast.git
+git clone https://github.com/senhkk/weather
 cd weather_forecast
 ```
 
